@@ -1,0 +1,21 @@
+.sect3{
+    background: #34547A;
+}
+
+.list {
+	padding: 0;
+	margin: auto;
+	list-style: none;
+    text-align: center;
+}
+
+.itemsfooter {
+    padding-top: 100px;
+    padding-bottom: 100px;
+	display: inline-block;
+	margin-left: 49px;
+}
+
+.itemsfooter:first-child{
+	margin-left: 0px;
+}
