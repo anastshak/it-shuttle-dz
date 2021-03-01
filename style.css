@@ -1,9 +1,10 @@
-@import "./css/main_header.css";
+@import "./css/main.css";
+@import "./css/header.css";
 @import "./css/sect1.css";
 @import "./css/sect2.css";
-@import "./css/sect3.css";
+@import "./css/icons.css";
 @import "./css/sect4.css";
-@import "./css/sect5.css";
-@import "./css/sect6.css";
+@import "./css/video.css";
+@import "./css/images.css";
 @import "./css/form.css";
 @import "./css/footer.css";
