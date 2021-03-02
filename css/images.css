@@ -1,0 +1,31 @@
+.sect_img{
+    margin-top: 28px;
+    margin-bottom: 72px;
+    width: 100%;
+}
+
+.img{
+    width: 100%;
+    padding: 0;
+	margin: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.itemsimg{
+    width: calc(100%/4);
+    position: relative;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+/* .itemsimg:hover{
+    
+} */
+
+.itemsimg:hover::after{
+    position: absolute;
+    background-color: rgba(52, 84, 122, 0.8);
+    background-image: url(/img/eye.svg);
+} 

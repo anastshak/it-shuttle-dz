@@ -1,0 +1,44 @@
+.skills{
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.line{
+    position: absolute;
+    width: 445px;
+    height: 4px;
+    background: #C4C4C4;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.secondline{
+    position: absolute;
+    width: 349.36px;
+    height: 4px;
+    background: #34547A;
+    transform: rotate(-0.06deg);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.margin55{
+    position: relative;
+    margin-bottom: 55px;
+}
+
+.photo{
+    margin-left: 150px;
+}
+
+.inf{
+    color: #727272;
+    font-size: 1rem;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+

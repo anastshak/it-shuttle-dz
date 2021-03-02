@@ -1,0 +1,17 @@
+.icon-laptop{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+button{
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+    margin-top: 60px;
+}
+
+.btn{
+    color: #ffffff;
+    text-transform: uppercase;
+}
+

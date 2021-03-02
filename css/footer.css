@@ -1,0 +1,13 @@
+.colortext{
+    color: white;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 151px;
+    margin: 0;
+    padding: 0;
+}
