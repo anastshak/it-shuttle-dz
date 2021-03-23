@@ -1,0 +1,106 @@
+.text-color{
+	color: rgba(255, 255, 255, 1);
+	margin-top: 220px;
+	text-align: center;
+}
+
+.text-size3{
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+}
+
+.text-margin{
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+.text36-bold{
+	font-size: 36px;
+	font-weight: bold;
+	margin: 0;
+}
+
+.text-h2{
+	text-align: center;
+
+	margin-top: 110px;
+	margin-bottom: 50px;
+}
+
+.text-lorem{
+	font-size: 14px;
+	color: rgba(153, 153, 153, 1);
+	margin: 0;
+}
+
+.text-lorem-align{
+	width: 730px;
+	margin: 0 auto;
+	text-align: center;
+	margin-bottom: 70px;
+}
+
+
+
+.text-lorem16{
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-size: 1rem;
+	color: gray;
+}
+
+.text-width{
+	width: 350px;
+}
+
+.text-white{
+	color: white;
+}
+
+span{
+	color: #4985FF;
+}
+
+h3{
+	font-size: 18px;
+	margin: 0;
+	margin-top: 30px;
+}
+
+.margin50{
+	padding-top: 100px;
+	margin-bottom: 50px;
+}
+
+.padd70{
+	padding-top: 70px;
+	margin-bottom: 30px;
+}
+
+.text-lorem-1rem{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-size: 1rem;
+	color: gray;
+}
+
+.mar85{
+	margin-bottom: 85px;
+}
+
+.text-footer{
+	padding-top: 70px;
+	margin-top: 0;
+	margin-bottom: 35px;
+
+	font-size: 1.2rem;
+	color: black;
+	font-weight: bold;
+}
+
+.last-item{
+	margin-top: -55px;
+	padding-bottom: 30px;
+}

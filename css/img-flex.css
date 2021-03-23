@@ -1,0 +1,19 @@
+.img-flex{
+	width: 100%;
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.align-block{
+	width: 26%;
+	margin-right: 120px;
+}
+
+.align-textblock{
+	width: 30%;
+	margin-right: 370px;
+}

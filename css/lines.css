@@ -1,0 +1,33 @@
+.line{
+	width: 100%;
+	top: 100px;
+	margin: 0;
+	opacity: 0.5;
+	border: 1px solid #A1A1A1;
+}
+
+.main-nav-item.active p {
+	position: absolute;
+
+	margin: 0 auto;
+	padding: 0;
+
+	width: 107px;
+	top: 99px;
+
+	border: 2px solid #FFFFFF;
+}
+
+.gray-line{
+	border: 1px solid #E0E0E0;
+
+	width: 70%;
+	text-align: center;
+
+	margin: 0 auto;
+}
+
+.margin85{
+	margin-top: 85px;
+	margin-bottom: 85px;
+}

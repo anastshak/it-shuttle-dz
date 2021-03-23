@@ -1,0 +1,22 @@
+.btn-align{
+	padding: 0;
+	margin-top: 50px;
+	margin-bottom: 330px;
+}
+
+button{
+	width: 200px;
+	height: 45px;
+	
+
+	color: rgba(255, 255, 255, 1);
+	background-color: #4985FF;
+	border-radius: 30px;
+	border: #4985FF;
+}
+
+.btn{
+	padding: 0;
+	margin-top: 55px;
+	margin-bottom: 105px;
+}
